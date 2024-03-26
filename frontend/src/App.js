@@ -2,7 +2,6 @@ import logo from "./logo.svg";
 import "./App.css";
 import Header from "./components/header/header";
 import ShowItem from "./components/items/showItems";
-// import AddItem from "./items/addItem";
 import AddItem from "./components/items/addItem";
 import {
   BrowserRouter as Router,
